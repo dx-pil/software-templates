@@ -8,6 +8,7 @@ metadata:
   annotations:
     github.com/project-slug: ${{values.destination.owner + "/" + values.destination.repo}}
     backstage.io/techdocs-ref: dir:.
+    dev.azure.com/project-repo: JustBe-Code-Portal/portal-charity-api
 spec:
   type: service
   lifecycle: experimental
