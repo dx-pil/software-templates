@@ -8,8 +8,9 @@ metadata:
     - react
     - cra
     - dx
+    - bow
 spec:
-  owner: dx-engineering
+  owner: dx-team
   type: website
   parameters:
     - title: Provide some simple information
