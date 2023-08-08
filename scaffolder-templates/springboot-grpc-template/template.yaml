@@ -2,8 +2,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: springboot-template
-  title: Spring Boot gRPC Service
-  description: Create a simple microservice using gRPC and Spring Boot Java
+  title: Spring Boot APU Service
+  description: mock pollinate spring boot api jave app template - (do not use)
   tags:
     - recommended
     - java
